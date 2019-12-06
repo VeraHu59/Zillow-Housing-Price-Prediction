@@ -1,6 +1,8 @@
 # Zillow-Housing-Price-Prediction
 Predict house price using geography information, age, area and so on.
 
+The algorithm I used includes XGBoost, LightGBM, Random Forest and so on. Then, I use simple weight average method to ensemble the models we learnt.
+
 There are three files in this repo:
 
 - **Original Data** : Contains the train and test data set.
